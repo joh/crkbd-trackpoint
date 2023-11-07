@@ -1,0 +1,6 @@
+[submodule "crkbd_trackpoint_case/sources/Chamfers-for-OpenSCAD"]
+	path = sources/Chamfers-for-OpenSCAD
+	url = https://github.com/SebiTimeWaster/Chamfers-for-OpenSCAD.git
+[submodule "crkbd_trackpoint_case/sources/KeyV2"]
+	path = sources/KeyV2
+	url = git@github.com:rsheldiii/KeyV2.git
