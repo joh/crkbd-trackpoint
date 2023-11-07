@@ -64,7 +64,7 @@ These are wide enough so that the entire keymap can be displayed (reflecting the
 I also use them to display the current trackpoint sensitivity.
 Search AliExpress and you will find plenty of options.
 
-### 3D-printed case:
+### 3D-printed case
 
 To mount the trackpoint, I designed a 3D-printed case based on the [Travel Crkbd magnetic case by taksi_kavausuki](https://www.printables.com/model/117598-travel-crkbd-magnetic-case).
 There is one version of the case without trackpoint (for the left half) and one version with the trackpoint mount (for the right half).
