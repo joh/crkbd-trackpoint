@@ -105,6 +105,11 @@ For `Wrist_Rest.stl`, add some extra infill around the heated insert (add an inf
 
 **NB: The parts are all oriented for the left half, so to print the right halves simply mirror each part accordingly in the slicer.**
 
+#### License
+
+The 3D-printed files are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ### Assembly
 
 The instructions below are for the trackpoint version of the case.
