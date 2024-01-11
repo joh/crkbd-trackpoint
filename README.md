@@ -51,8 +51,8 @@ PIO enables protocols such as PS/2 to be implemented in hardware, offloading the
 A PS/2 PIO driver is now available in QMK (developed by @gamelaster and myself, see [PR #17893](https://github.com/qmk/qmk_firmware/pull/17893)).
 
 Make the following connections from the SK8707:
-* PS/2 data line: connect to B4 on the RP2040
-* PS/2 clock line: connect to B5 on the RP2040
+* PS/2 data line: connect to pin 8 on the RP2040
+* PS/2 clock line: connect to pin 9 on the RP2040
 * 3.3V and GND are readily available from the OLED header
 
 ![crkbd connections](images/crkbd-connections.jpg)
