@@ -33,7 +33,7 @@ I desoldered the ribbon cable from the controller board, and wired up only the f
 
 ![sk8707](images/SK8707-wiring.jpg)
 
-SK8707 does not require a reset circuit, but it does need pullups on the PS/2 data and clock lines. We can enable pullups on the RP2040 controller, so no extra resistors are needed.
+SK8707 does not require a reset circuit, but it does need pullups on the PS/2 data and clock lines. We can enable pullups on the RP2040 controller, so no extra resistors are needed (see [this commit](https://github.com/joh/qmk_firmware/commit/aa0214f5b1b3001cf7cc99419c32c8b87707cb5a)).
 
 I was lucky to have a trackpoint stem from a decommissioned Tex Yoda II, but others report success using a [labret cheek piercing](https://github.com/alonswartz/trackpoint#q-what-should-i-use-for-the-trackpoint-stemstick).
 
@@ -181,7 +181,7 @@ Please see my [qmk branch](https://github.com/joh/qmk_firmware/tree/joh-rp2040-t
 
 Some notable features:
 * `MH_AUTO_MOUSE_BUTTONS` from manna-harbour is used to automatically switch to the mouse layer when the trackpoint is used.
-* Pullups are enabled on the PS2 CLK/DATA pins
+* Pullups are enabled on the PS2 CLK/DATA pins (see [this commit](https://github.com/joh/qmk_firmware/commit/aa0214f5b1b3001cf7cc99419c32c8b87707cb5a))
 * Custom keys for controlling trackpoint sensitivity
 
 ## Other resources
